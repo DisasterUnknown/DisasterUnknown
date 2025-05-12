@@ -12,6 +12,8 @@
 - 💬 Ask me about **JavaScript, HTML5 Canvas, CSS animations, MySQL, and AI basics**
 - 🧩 Fun Fact: I draw anime art and play chess ♟️
 
+
+
 ---
 
 ### 🛠️ Tech Stack
