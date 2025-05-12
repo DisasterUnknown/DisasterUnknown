@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DisasterUnknown</h1>
+<h1 align="center">Hi 👋, I'm Priyashantha</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Developer | 🎮 Game Dev Enthusiast | 🧠 Quantum Computing Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -7,7 +7,7 @@
 - 🛠️ Projects:
   - [🌐 Personal Web Profile](https://disasterunknown.github.io/Web-Profile.github.io/)
   - 🎮 Godot Pixel Game (In Progress)
-  - 🗂️ Management Web App (WIP)
+  - [🗂️ Management Web App](https://disasterunknown.github.io/Wolf-Mania.github.io/) 
 
 - 💬 Ask me about **JavaScript, HTML5 Canvas, CSS animations, MySQL, and AI basics**
 - 🧩 Fun Fact: I draw anime art and play chess ♟️
@@ -29,10 +29,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DisasterUnknown&show_icons=true&theme=radical" alt="DisasterUnknown stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DisasterUnknown&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DisasterUnknown&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyashantha)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyashantha-fernando-b325122b7/)
