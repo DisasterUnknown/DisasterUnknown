@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyashantha</h1>
+<h1 align="center">Hi 👋, I'm DisasterUnknown</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Developer | 🎮 Game Dev Enthusiast | 🧠 Quantum Computing Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
