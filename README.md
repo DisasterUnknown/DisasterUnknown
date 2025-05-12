@@ -31,8 +31,3 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=DisasterUnknown&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyashantha-fernando-b325122b7/)
